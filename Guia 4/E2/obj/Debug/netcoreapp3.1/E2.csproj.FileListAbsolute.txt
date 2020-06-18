@@ -1,0 +1,13 @@
+E:\Escritorio\Spisso\guias-de-ejercicios-BrahianSozaki\Guia 4\E2\bin\Debug\netcoreapp3.1\E2.exe
+E:\Escritorio\Spisso\guias-de-ejercicios-BrahianSozaki\Guia 4\E2\bin\Debug\netcoreapp3.1\E2.deps.json
+E:\Escritorio\Spisso\guias-de-ejercicios-BrahianSozaki\Guia 4\E2\bin\Debug\netcoreapp3.1\E2.runtimeconfig.json
+E:\Escritorio\Spisso\guias-de-ejercicios-BrahianSozaki\Guia 4\E2\bin\Debug\netcoreapp3.1\E2.runtimeconfig.dev.json
+E:\Escritorio\Spisso\guias-de-ejercicios-BrahianSozaki\Guia 4\E2\bin\Debug\netcoreapp3.1\E2.dll
+E:\Escritorio\Spisso\guias-de-ejercicios-BrahianSozaki\Guia 4\E2\bin\Debug\netcoreapp3.1\E2.pdb
+E:\Escritorio\Spisso\guias-de-ejercicios-BrahianSozaki\Guia 4\E2\obj\Debug\netcoreapp3.1\E2.csprojAssemblyReference.cache
+E:\Escritorio\Spisso\guias-de-ejercicios-BrahianSozaki\Guia 4\E2\obj\Debug\netcoreapp3.1\E2.csproj.CoreCompileInputs.cache
+E:\Escritorio\Spisso\guias-de-ejercicios-BrahianSozaki\Guia 4\E2\obj\Debug\netcoreapp3.1\E2.AssemblyInfoInputs.cache
+E:\Escritorio\Spisso\guias-de-ejercicios-BrahianSozaki\Guia 4\E2\obj\Debug\netcoreapp3.1\E2.AssemblyInfo.cs
+E:\Escritorio\Spisso\guias-de-ejercicios-BrahianSozaki\Guia 4\E2\obj\Debug\netcoreapp3.1\E2.dll
+E:\Escritorio\Spisso\guias-de-ejercicios-BrahianSozaki\Guia 4\E2\obj\Debug\netcoreapp3.1\E2.pdb
+E:\Escritorio\Spisso\guias-de-ejercicios-BrahianSozaki\Guia 4\E2\obj\Debug\netcoreapp3.1\E2.genruntimeconfig.cache
